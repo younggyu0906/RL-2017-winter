@@ -1,0 +1,3 @@
+https://tykimos.github.io/DeepBrick/
+
+https://tykimos.github.io/2017/01/27/MLP_Layer_Talk/
